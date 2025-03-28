@@ -9,3 +9,4 @@ IF server is not responding, please try to change port
 THE next step is to run client(1).py on terminal
 FOR each time running client(1).py you can only chat with oracle and ask for weather prediction of only one city
 IF you want to ask for prediction of another city, please run client(1).py and ask again
+When you are chatting, please use 'london/birmingham' instead of 'London/Birmingham'
